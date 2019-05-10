@@ -54,3 +54,17 @@ C:\xampp\htdocs\FIFAProject_C_Sharp\CSharp\FifaApi\obj\Debug\FifaApi.csproj.Core
 C:\xampp\htdocs\FIFAProject_C_Sharp\CSharp\FifaApi\obj\Debug\FifaApi.csproj.CopyComplete
 C:\xampp\htdocs\FIFAProject_C_Sharp\CSharp\FifaApi\obj\Debug\FifaApi.exe
 C:\xampp\htdocs\FIFAProject_C_Sharp\CSharp\FifaApi\obj\Debug\FifaApi.pdb
+C:\xampp\htdocs\FIFAProject_C_Sharp\CSharp\FifaApi\FIFAProject_C_SHARP\bin\Debug\FifaApi.exe.config
+C:\xampp\htdocs\FIFAProject_C_Sharp\CSharp\FifaApi\FIFAProject_C_SHARP\bin\Debug\FifaApi.exe
+C:\xampp\htdocs\FIFAProject_C_Sharp\CSharp\FifaApi\FIFAProject_C_SHARP\bin\Debug\FifaApi.pdb
+C:\xampp\htdocs\FIFAProject_C_Sharp\CSharp\FifaApi\FIFAProject_C_SHARP\bin\Debug\Newtonsoft.Json.dll
+C:\xampp\htdocs\FIFAProject_C_Sharp\CSharp\FifaApi\FIFAProject_C_SHARP\bin\Debug\Newtonsoft.Json.pdb
+C:\xampp\htdocs\FIFAProject_C_Sharp\CSharp\FifaApi\FIFAProject_C_SHARP\bin\Debug\Newtonsoft.Json.xml
+C:\xampp\htdocs\FIFAProject_C_Sharp\CSharp\FifaApi\FIFAProject_C_SHARP\obj\Debug\FifaApi.csprojAssemblyReference.cache
+C:\xampp\htdocs\FIFAProject_C_Sharp\CSharp\FifaApi\FIFAProject_C_SHARP\obj\Debug\FifaApi.Form1.resources
+C:\xampp\htdocs\FIFAProject_C_Sharp\CSharp\FifaApi\FIFAProject_C_SHARP\obj\Debug\FifaApi.Properties.Resources.resources
+C:\xampp\htdocs\FIFAProject_C_Sharp\CSharp\FifaApi\FIFAProject_C_SHARP\obj\Debug\FifaApi.csproj.GenerateResource.cache
+C:\xampp\htdocs\FIFAProject_C_Sharp\CSharp\FifaApi\FIFAProject_C_SHARP\obj\Debug\FifaApi.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\FIFAProject_C_Sharp\CSharp\FifaApi\FIFAProject_C_SHARP\obj\Debug\FifaApi.csproj.CopyComplete
+C:\xampp\htdocs\FIFAProject_C_Sharp\CSharp\FifaApi\FIFAProject_C_SHARP\obj\Debug\FifaApi.exe
+C:\xampp\htdocs\FIFAProject_C_Sharp\CSharp\FifaApi\FIFAProject_C_SHARP\obj\Debug\FifaApi.pdb

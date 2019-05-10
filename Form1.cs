@@ -28,7 +28,7 @@ namespace FifaApi
 				string dataJson;
 
 				//?id = " + input.ToString());
-				dataJson = downloader.DownloadString("http://localhost/FIFA_Project_PHP/FIFAProject_PHP/config-teams.php");
+				dataJson = downloader.DownloadString("http://localhost/FIFAProject_PHP/config-teams.php");
 
 				// Deserialize the json to a data object
 				Data data = JsonConvert.DeserializeObject<Data>(dataJson);
